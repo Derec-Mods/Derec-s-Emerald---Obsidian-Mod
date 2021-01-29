@@ -1,0 +1,37 @@
+{
+  "group": "derecs_emerald__obsidian_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "derecs_emerald__obsidian_mod:obsidian_hoe"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:obsidian_hoe"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:obsidian_hoe"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:obsidian_hoe"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:obsidian_hoe"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:obsidian_hoe"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:obsidian_hoe"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:obsidian_hoe"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:obsidian_hoe"
+    }
+  ],
+  "result": {
+    "item": "derecs_emerald__obsidian_mod:obsidian_super_hoe",
+    "count": 1
+  }
+}

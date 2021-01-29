@@ -1,0 +1,19 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:EmeraldArrow"
+      },
+      {
+        "value": "CUSTOM:ObsidianArrow"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "arrows",
+    "namespace": "minecraft"
+  }
+}

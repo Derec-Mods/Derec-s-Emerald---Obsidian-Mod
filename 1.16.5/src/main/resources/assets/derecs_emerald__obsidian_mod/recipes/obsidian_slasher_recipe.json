@@ -1,0 +1,27 @@
+{
+  "group": "derecs_emerald__obsidian_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:obsidian"
+    },
+    "2": {
+      "item": "minecraft:obsidian"
+    },
+    "3": {
+      "item": "minecraft:obsidian"
+    },
+    "5": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "derecs_emerald__obsidian_mod:obsidian_slasher",
+    "count": 1
+  }
+}

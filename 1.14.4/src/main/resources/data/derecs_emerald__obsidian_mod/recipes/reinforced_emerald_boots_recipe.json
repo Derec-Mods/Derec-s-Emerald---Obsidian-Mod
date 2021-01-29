@@ -1,0 +1,22 @@
+{
+  "group": "derecs_emerald__obsidian_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "item": "derecs_emerald__obsidian_mod:emerald_armor_boots"
+    },
+    "2": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "derecs_emerald__obsidian_mod:reinforced_emerald_armor_boots",
+    "count": 1
+  }
+}

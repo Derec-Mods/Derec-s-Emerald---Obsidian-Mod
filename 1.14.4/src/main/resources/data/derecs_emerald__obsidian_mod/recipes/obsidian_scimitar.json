@@ -1,0 +1,24 @@
+{
+  "group": "derecs_emerald__obsidian_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:obsidian"
+    },
+    "2": {
+      "item": "minecraft:obsidian"
+    },
+    "4": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "derecs_emerald__obsidian_mod:obsidian_thing_i_cant_spell",
+    "count": 1
+  }
+}

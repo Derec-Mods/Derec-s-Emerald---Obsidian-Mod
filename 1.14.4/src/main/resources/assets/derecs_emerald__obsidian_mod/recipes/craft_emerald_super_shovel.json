@@ -1,0 +1,37 @@
+{
+  "group": "derecs_emerald__obsidian_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "derecs_emerald__obsidian_mod:emerald_shovel"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:emerald_shovel"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:emerald_shovel"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:emerald_shovel"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:emerald_shovel"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:emerald_shovel"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:emerald_shovel"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:emerald_shovel"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:emerald_shovel"
+    }
+  ],
+  "result": {
+    "item": "derecs_emerald__obsidian_mod:emerald_super_shovel",
+    "count": 1
+  }
+}

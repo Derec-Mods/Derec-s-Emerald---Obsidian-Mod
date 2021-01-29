@@ -1,0 +1,29 @@
+{
+  "group": "derecs_emerald__obsidian_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blaze_powder"
+    },
+    "2": {
+      "item": "minecraft:blaze_powder"
+    },
+    "3": {
+      "item": "minecraft:obsidian"
+    },
+    "4": {
+      "item": "derecs_emerald__obsidian_mod:obsidian_armorbody"
+    },
+    "5": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "derecs_emerald__obsidian_mod:reinforced_obsidian_armorbody",
+    "count": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 15,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "emeraldshurikan",
+    "customModelName": "Normal",
+    "name": "Emerald Shuriken",
+    "specialInfo": [
+      "ninja...go!"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 64,
+    "ammoItem": {
+      "value": "CUSTOM:EmeraldShuriken"
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "CUSTOM:shurikenthrow"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 3.0,
+    "bulletKnockback": 0,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:EmeraldShuriken"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "DropShuriken"
+    },
+    "onBulletHitsEntity": {
+      "name": "DropShuriken"
+    }
+  }
+}

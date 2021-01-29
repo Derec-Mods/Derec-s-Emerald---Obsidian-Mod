@@ -1,0 +1,27 @@
+{
+  "group": "derecs_emerald__obsidian_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:obsidian"
+    },
+    "3": {
+      "item": "minecraft:obsidian"
+    },
+    "5": {
+      "item": "minecraft:obsidian"
+    },
+    "7": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "derecs_emerald__obsidian_mod:obsidian_shuriken",
+    "count": 3
+  }
+}

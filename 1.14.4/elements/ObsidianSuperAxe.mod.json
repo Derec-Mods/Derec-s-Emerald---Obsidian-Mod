@@ -1,0 +1,35 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "reinforcedobsidianaxe",
+    "customModelName": "Normal",
+    "name": "Reinforced Obsidian Axe",
+    "specialInfo": [
+      "Realistic tree breaking... sorta"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 5,
+    "efficiency": 9.0,
+    "attackSpeed": 1.0,
+    "enchantability": 11,
+    "damageVsEntity": 5.0,
+    "usageCount": 1951,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.OBSIDIAN"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "SuperAxe"
+    }
+  }
+}

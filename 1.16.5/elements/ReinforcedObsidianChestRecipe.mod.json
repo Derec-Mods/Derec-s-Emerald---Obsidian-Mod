@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.BLAZE_POWDER"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.BLAZE_POWDER"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "CUSTOM:ObsidianArmor.body"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ReinforcedObsidianArmor.body"
+    },
+    "name": "reinforced_obsidian_chest_recipe",
+    "namespace": "mod"
+  }
+}

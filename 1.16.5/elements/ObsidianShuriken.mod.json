@@ -1,0 +1,45 @@
+{
+  "_fv": 13,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "obsidianshurikan",
+    "customModelName": "Normal",
+    "name": "Obsidian Shuriken",
+    "specialInfo": [
+      "Power of spinjitzu"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 64,
+    "ammoItem": {
+      "value": "CUSTOM:ObsidianShuriken"
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "CUSTOM:shurikenthrow"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 0,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:ObsidianShuriken"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "DropShurikenObsidian"
+    },
+    "onBulletHitsEntity": {
+      "name": "IgniteandDrop"
+    }
+  }
+}

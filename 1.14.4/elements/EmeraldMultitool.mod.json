@@ -1,0 +1,30 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "emeraldmultitool",
+    "customModelName": "Normal",
+    "name": "Emerald MultiTool",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 4,
+    "efficiency": 7.0,
+    "attackSpeed": 5.0,
+    "enchantability": 9,
+    "damageVsEntity": 4.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.EMERALD"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

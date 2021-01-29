@@ -1,0 +1,20 @@
+{
+  "shurikenhit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "derecs_emerald__obsidian_mod:shurikenhit",
+        "stream": false
+      }
+    ]
+  },
+  "shurikenthrow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "derecs_emerald__obsidian_mod:shurikenthrow",
+        "stream": false
+      }
+    ]
+  }
+}

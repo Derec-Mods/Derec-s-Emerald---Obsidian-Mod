@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:emerald"
+    },
+    "title": {
+      "translate": "advancements.emerald_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.emerald_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "emerald_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:emerald",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:story/mine_diamond"
+}

@@ -1,0 +1,36 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "obsidianscimitar",
+    "customModelName": "Normal",
+    "name": "Obsidian Scimitar",
+    "specialInfo": [
+      "Nimble",
+      "fiery blade"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 8.0,
+    "attackSpeed": 2.2,
+    "enchantability": 10,
+    "damageVsEntity": 12.0,
+    "usageCount": 1951,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.OBSIDIAN"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "ChanceIgnite"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "reinforcedemeraldaxe",
+    "customModelName": "Normal",
+    "name": "Reinforced Emerald Axe",
+    "specialInfo": [
+      "Lumberjack time!"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 5.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.EMERALD"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "SuperAxe"
+    }
+  }
+}

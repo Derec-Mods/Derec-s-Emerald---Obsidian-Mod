@@ -1,0 +1,22 @@
+{
+  "group": "derecs_emerald__obsidian_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blaze_rod"
+    },
+    "1": {
+      "item": "derecs_emerald__obsidian_mod:obsidian_armorhelmet"
+    },
+    "2": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "derecs_emerald__obsidian_mod:reinforced_obsidian_armorhelmet",
+    "count": 1
+  }
+}

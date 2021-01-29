@@ -1,0 +1,25 @@
+{
+  "group": "derecs_emerald__obsidian_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "derecs_emerald__obsidian_mod:obsidian_shovel"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:obsidian_pickaxe"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:obsidian_axe"
+    },
+    {
+      "item": "derecs_emerald__obsidian_mod:obsidian_hoe"
+    },
+    {
+      "item": "minecraft:shears"
+    }
+  ],
+  "result": {
+    "item": "derecs_emerald__obsidian_mod:obsidian_multi_tool",
+    "count": 1
+  }
+}

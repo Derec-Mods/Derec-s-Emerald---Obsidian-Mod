@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="Not specified"
+
+[[mods]]
+modId="derecs_emerald__obsidian_mod"
+version="1.1.3.0"
+displayName="Derec's Emerald & Obsidian Mod"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="noi01, MCreator"
+description='''
+A port of the popular Emerald & Obsidian mod for future versions!
+'''
+
+[[dependencies.derecs_emerald__obsidian_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

@@ -1,0 +1,16 @@
+{
+  "group": "derecs_emerald__obsidian_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    },
+    {
+      "item": "minecraft:arrow"
+    }
+  ],
+  "result": {
+    "item": "derecs_emerald__obsidian_mod:emerald_arrow",
+    "count": 32
+  }
+}

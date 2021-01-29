@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "derecs_emerald__obsidian_mod:items/reinforcedobsidianshovel"
+  }
+}
